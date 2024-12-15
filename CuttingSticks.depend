@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734251237 source:e:\cpp\cuttingsticks\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+
